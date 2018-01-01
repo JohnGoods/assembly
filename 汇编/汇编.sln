@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "001_MOV", "汇编\汇编.vc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "002_汇编加法指令ADD", "002_汇编加法指令ADD\002_汇编加法指令ADD.vcxproj", "{C092B4A3-3567-4C4E-83AE-B003B49630DD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "003_寄存器EAX与AX,AH,AL关系", "003_寄存器EAX与AX,AH,AL关系\003_寄存器EAX与AX,AH,AL关系.vcxproj", "{BA4428F6-0746-43BB-944B-555E857F5CB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +23,10 @@ Global
 		{C092B4A3-3567-4C4E-83AE-B003B49630DD}.Debug|Win32.Build.0 = Debug|Win32
 		{C092B4A3-3567-4C4E-83AE-B003B49630DD}.Release|Win32.ActiveCfg = Release|Win32
 		{C092B4A3-3567-4C4E-83AE-B003B49630DD}.Release|Win32.Build.0 = Release|Win32
+		{BA4428F6-0746-43BB-944B-555E857F5CB9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BA4428F6-0746-43BB-944B-555E857F5CB9}.Debug|Win32.Build.0 = Debug|Win32
+		{BA4428F6-0746-43BB-944B-555E857F5CB9}.Release|Win32.ActiveCfg = Release|Win32
+		{BA4428F6-0746-43BB-944B-555E857F5CB9}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
