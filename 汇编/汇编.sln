@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004_汇编指令MOVSX与MOV
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "005_取地址指令LEA", "005_取地址指令LEA\005_取地址指令LEA.vcxproj", "{FADCD4C4-9DC5-4D05-86C3-485EE337EB73}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "006_减法指令SUB及对标志寄存器PSW的影响", "006_减法指令SUB及对标志寄存器PSW的影响\006_减法指令SUB及对标志寄存器PSW的影响.vcxproj", "{EB594D0F-5ECE-4BF7-8EF0-76DD3E1B0D24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -39,6 +41,10 @@ Global
 		{FADCD4C4-9DC5-4D05-86C3-485EE337EB73}.Debug|Win32.Build.0 = Debug|Win32
 		{FADCD4C4-9DC5-4D05-86C3-485EE337EB73}.Release|Win32.ActiveCfg = Release|Win32
 		{FADCD4C4-9DC5-4D05-86C3-485EE337EB73}.Release|Win32.Build.0 = Release|Win32
+		{EB594D0F-5ECE-4BF7-8EF0-76DD3E1B0D24}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EB594D0F-5ECE-4BF7-8EF0-76DD3E1B0D24}.Debug|Win32.Build.0 = Debug|Win32
+		{EB594D0F-5ECE-4BF7-8EF0-76DD3E1B0D24}.Release|Win32.ActiveCfg = Release|Win32
+		{EB594D0F-5ECE-4BF7-8EF0-76DD3E1B0D24}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
