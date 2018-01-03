@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "008_JNE指令与标志位",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "009_无条件跳转指令jmp", "009_无条件跳转指令jmp\009_无条件跳转指令jmp.vcxproj", "{B842F29E-370C-474E-B03C-03C822996393}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "010_条件跳转JL JNGE(SF小于)", "010_条件跳转JL JNGE(SF小于)\010_条件跳转JL JNGE(SF小于).vcxproj", "{CDBAAEDD-A850-41A5-A2CD-6FED3BDBEC62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -63,6 +65,10 @@ Global
 		{B842F29E-370C-474E-B03C-03C822996393}.Debug|Win32.Build.0 = Debug|Win32
 		{B842F29E-370C-474E-B03C-03C822996393}.Release|Win32.ActiveCfg = Release|Win32
 		{B842F29E-370C-474E-B03C-03C822996393}.Release|Win32.Build.0 = Release|Win32
+		{CDBAAEDD-A850-41A5-A2CD-6FED3BDBEC62}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CDBAAEDD-A850-41A5-A2CD-6FED3BDBEC62}.Debug|Win32.Build.0 = Debug|Win32
+		{CDBAAEDD-A850-41A5-A2CD-6FED3BDBEC62}.Release|Win32.ActiveCfg = Release|Win32
+		{CDBAAEDD-A850-41A5-A2CD-6FED3BDBEC62}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
