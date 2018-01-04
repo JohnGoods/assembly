@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "013_无符号数条件转�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "014_无符号数条件转移指令JB JNAE JC(小于)", "014_无符号数条件转移指令JB JNAE JC(小于)\014_无符号数条件转移指令JB JNAE JC(小于).vcxproj", "{E80FF758-F8DE-4044-9850-53742800E01A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "015_无符号数条件转移指令JBE JNA(小于等于)", "015_无符号数条件转移指令JBE JNA(小于等于)\015_无符号数条件转移指令JBE JNA(小于等于).vcxproj", "{93672CC7-4640-489B-B8EB-AB5996D9A5AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -93,6 +95,10 @@ Global
 		{E80FF758-F8DE-4044-9850-53742800E01A}.Debug|Win32.Build.0 = Debug|Win32
 		{E80FF758-F8DE-4044-9850-53742800E01A}.Release|Win32.ActiveCfg = Release|Win32
 		{E80FF758-F8DE-4044-9850-53742800E01A}.Release|Win32.Build.0 = Release|Win32
+		{93672CC7-4640-489B-B8EB-AB5996D9A5AE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{93672CC7-4640-489B-B8EB-AB5996D9A5AE}.Debug|Win32.Build.0 = Debug|Win32
+		{93672CC7-4640-489B-B8EB-AB5996D9A5AE}.Release|Win32.ActiveCfg = Release|Win32
+		{93672CC7-4640-489B-B8EB-AB5996D9A5AE}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
