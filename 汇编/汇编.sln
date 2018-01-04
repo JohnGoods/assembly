@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "001_MOV", "汇编\汇编.vcxproj", "{93457457-74FC-4559-8D64-0401CEF2D6AA}"
 EndProject
@@ -26,6 +26,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "011_JG JNLE(大于转移)指令+", "011_JG JNLE(大于转移)指令+\011_JG JNLE(大于转移)指令+.vcxproj", "{9843E2B1-9F73-47B2-9E0F-87071461A34D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "012_无符号数条件转移指令JA JNBE(大于)", "012_无符号数条件转移指令JA JNBE(大于)\012_无符号数条件转移指令JA JNBE(大于).vcxproj", "{212AE7CA-466E-4F69-B1E8-44F2B8555678}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "013_无符号数条件转移指令JNB JAE JNC(大于等于)", "013_无符号数条件转移指令JNB JAE JNC(大于等于)\013_无符号数条件转移指令JNB JAE JNC(大于等于).vcxproj", "{9D9356C9-E878-429F-9440-AF5F5513ADD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{212AE7CA-466E-4F69-B1E8-44F2B8555678}.Debug|Win32.Build.0 = Debug|Win32
 		{212AE7CA-466E-4F69-B1E8-44F2B8555678}.Release|Win32.ActiveCfg = Release|Win32
 		{212AE7CA-466E-4F69-B1E8-44F2B8555678}.Release|Win32.Build.0 = Release|Win32
+		{9D9356C9-E878-429F-9440-AF5F5513ADD8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9D9356C9-E878-429F-9440-AF5F5513ADD8}.Debug|Win32.Build.0 = Debug|Win32
+		{9D9356C9-E878-429F-9440-AF5F5513ADD8}.Release|Win32.ActiveCfg = Release|Win32
+		{9D9356C9-E878-429F-9440-AF5F5513ADD8}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
