@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "016_EBP,ESP与CALL", "016_E
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "017_PUSH_POP", "017_PUSH_POP\017_PUSH_POP.vcxproj", "{CD9968C8-8C59-488E-887C-F2BACA1BE992}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "018_函数约定cdecl,stcall与CALL", "018_函数约定cdecl,stcall与CALL\018_函数约定cdecl,stcall与CALL.vcxproj", "{79B52593-EE07-481F-A08D-271C21BA2216}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -111,6 +113,10 @@ Global
 		{CD9968C8-8C59-488E-887C-F2BACA1BE992}.Debug|Win32.Build.0 = Debug|Win32
 		{CD9968C8-8C59-488E-887C-F2BACA1BE992}.Release|Win32.ActiveCfg = Release|Win32
 		{CD9968C8-8C59-488E-887C-F2BACA1BE992}.Release|Win32.Build.0 = Release|Win32
+		{79B52593-EE07-481F-A08D-271C21BA2216}.Debug|Win32.ActiveCfg = Debug|Win32
+		{79B52593-EE07-481F-A08D-271C21BA2216}.Debug|Win32.Build.0 = Debug|Win32
+		{79B52593-EE07-481F-A08D-271C21BA2216}.Release|Win32.ActiveCfg = Release|Win32
+		{79B52593-EE07-481F-A08D-271C21BA2216}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
