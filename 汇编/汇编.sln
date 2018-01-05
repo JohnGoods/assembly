@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "017_PUSH_POP", "017_PUSH_PO
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "018_函数约定cdecl,stcall与CALL", "018_函数约定cdecl,stcall与CALL\018_函数约定cdecl,stcall与CALL.vcxproj", "{79B52593-EE07-481F-A08D-271C21BA2216}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "019_函数调用约定_fastcall与CALL代码", "019_函数调用约定_fastcall与CALL代码\019_函数调用约定_fastcall与CALL代码.vcxproj", "{4A5B0BDA-640B-43B6-BFBA-DB4B5368A5CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -117,6 +119,10 @@ Global
 		{79B52593-EE07-481F-A08D-271C21BA2216}.Debug|Win32.Build.0 = Debug|Win32
 		{79B52593-EE07-481F-A08D-271C21BA2216}.Release|Win32.ActiveCfg = Release|Win32
 		{79B52593-EE07-481F-A08D-271C21BA2216}.Release|Win32.Build.0 = Release|Win32
+		{4A5B0BDA-640B-43B6-BFBA-DB4B5368A5CF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4A5B0BDA-640B-43B6-BFBA-DB4B5368A5CF}.Debug|Win32.Build.0 = Debug|Win32
+		{4A5B0BDA-640B-43B6-BFBA-DB4B5368A5CF}.Release|Win32.ActiveCfg = Release|Win32
+		{4A5B0BDA-640B-43B6-BFBA-DB4B5368A5CF}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
