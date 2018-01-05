@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "019_函数调用约定_fast
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "020_if-else汇编与逆向还原代码", "020_if-else汇编与逆向还原代码\020_if-else汇编与逆向还原代码.vcxproj", "{50150C16-95E3-4C83-A727-FCF96442905A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "021_switch case汇编框架的几种形式", "021_switch case汇编框架的几种形式\021_switch case汇编框架的几种形式.vcxproj", "{F2C2077D-1D65-4D13-9DA5-00C3E399B7E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -129,6 +131,10 @@ Global
 		{50150C16-95E3-4C83-A727-FCF96442905A}.Debug|Win32.Build.0 = Debug|Win32
 		{50150C16-95E3-4C83-A727-FCF96442905A}.Release|Win32.ActiveCfg = Release|Win32
 		{50150C16-95E3-4C83-A727-FCF96442905A}.Release|Win32.Build.0 = Release|Win32
+		{F2C2077D-1D65-4D13-9DA5-00C3E399B7E3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2C2077D-1D65-4D13-9DA5-00C3E399B7E3}.Debug|Win32.Build.0 = Debug|Win32
+		{F2C2077D-1D65-4D13-9DA5-00C3E399B7E3}.Release|Win32.ActiveCfg = Release|Win32
+		{F2C2077D-1D65-4D13-9DA5-00C3E399B7E3}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
