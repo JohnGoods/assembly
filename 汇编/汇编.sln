@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "021_switch case汇编框架
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "022_switch Case汇编代码还原为C++代码", "022_switch Case汇编代码还原为C++代码\022_switch Case汇编代码还原为C++代码.vcxproj", "{6C55590D-8C2C-498E-9746-81B758FEC8EC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "023_switch Case汇编代码还原为C++代码(索引表)", "023_switch Case汇编代码还原为C++代码(索引表)\023_switch Case汇编代码还原为C++代码(索引表).vcxproj", "{37892947-6C23-4946-969A-E82D9FF8781B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -141,6 +143,10 @@ Global
 		{6C55590D-8C2C-498E-9746-81B758FEC8EC}.Debug|Win32.Build.0 = Debug|Win32
 		{6C55590D-8C2C-498E-9746-81B758FEC8EC}.Release|Win32.ActiveCfg = Release|Win32
 		{6C55590D-8C2C-498E-9746-81B758FEC8EC}.Release|Win32.Build.0 = Release|Win32
+		{37892947-6C23-4946-969A-E82D9FF8781B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{37892947-6C23-4946-969A-E82D9FF8781B}.Debug|Win32.Build.0 = Debug|Win32
+		{37892947-6C23-4946-969A-E82D9FF8781B}.Release|Win32.ActiveCfg = Release|Win32
+		{37892947-6C23-4946-969A-E82D9FF8781B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
