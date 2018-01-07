@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "022_switch Case汇编代码
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "023_for循环汇编还原", "023_for循环汇编还原\023_for循环汇编还原.vcxproj", "{3C94CD07-C6E8-48B2-8D36-FB77FA6BDAF4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "024_dec(减1)和inc(加1)指令", "024_dec(减1)和inc(加1)指令\024_dec(减1)和inc(加1)指令.vcxproj", "{BB870FB4-FE89-4D13-8D89-5365A0E2395B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -147,6 +149,10 @@ Global
 		{3C94CD07-C6E8-48B2-8D36-FB77FA6BDAF4}.Debug|Win32.Build.0 = Debug|Win32
 		{3C94CD07-C6E8-48B2-8D36-FB77FA6BDAF4}.Release|Win32.ActiveCfg = Release|Win32
 		{3C94CD07-C6E8-48B2-8D36-FB77FA6BDAF4}.Release|Win32.Build.0 = Release|Win32
+		{BB870FB4-FE89-4D13-8D89-5365A0E2395B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB870FB4-FE89-4D13-8D89-5365A0E2395B}.Debug|Win32.Build.0 = Debug|Win32
+		{BB870FB4-FE89-4D13-8D89-5365A0E2395B}.Release|Win32.ActiveCfg = Release|Win32
+		{BB870FB4-FE89-4D13-8D89-5365A0E2395B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
