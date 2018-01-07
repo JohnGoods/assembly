@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "029_浮点指令FDIV(除)",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "030_浮点数与整数运算指令 FILD", "030_浮点数与整数运算指令 FILD\030_浮点数与整数运算指令 FILD.vcxproj", "{7BE0DE15-095B-4DCC-A036-4DBB893BF408}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "031_浮点指令CVTTPS2PI(浮点数转整数)", "031_浮点指令CVTTPS2PI(浮点数转整数)\031_浮点指令CVTTPS2PI(浮点数转整数).vcxproj", "{7EEEFA97-184D-47E8-A854-4B4250535DBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -189,6 +191,10 @@ Global
 		{7BE0DE15-095B-4DCC-A036-4DBB893BF408}.Debug|Win32.Build.0 = Debug|Win32
 		{7BE0DE15-095B-4DCC-A036-4DBB893BF408}.Release|Win32.ActiveCfg = Release|Win32
 		{7BE0DE15-095B-4DCC-A036-4DBB893BF408}.Release|Win32.Build.0 = Release|Win32
+		{7EEEFA97-184D-47E8-A854-4B4250535DBE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7EEEFA97-184D-47E8-A854-4B4250535DBE}.Debug|Win32.Build.0 = Debug|Win32
+		{7EEEFA97-184D-47E8-A854-4B4250535DBE}.Release|Win32.ActiveCfg = Release|Win32
+		{7EEEFA97-184D-47E8-A854-4B4250535DBE}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
