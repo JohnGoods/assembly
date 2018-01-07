@@ -67,6 +67,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "031_浮点指令CVTTPS2PI(�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "032_OR运算", "032_OR运算\032_OR运算.vcxproj", "{3C9C684C-2EB0-49E6-84D3-EB3AA6B926F1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "033_AND(按位与指令)", "033_AND(按位与指令)\033_AND(按位与指令).vcxproj", "{044DF54B-24EE-404C-A8C6-3A2BFE58B9D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -201,6 +203,10 @@ Global
 		{3C9C684C-2EB0-49E6-84D3-EB3AA6B926F1}.Debug|Win32.Build.0 = Debug|Win32
 		{3C9C684C-2EB0-49E6-84D3-EB3AA6B926F1}.Release|Win32.ActiveCfg = Release|Win32
 		{3C9C684C-2EB0-49E6-84D3-EB3AA6B926F1}.Release|Win32.Build.0 = Release|Win32
+		{044DF54B-24EE-404C-A8C6-3A2BFE58B9D5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{044DF54B-24EE-404C-A8C6-3A2BFE58B9D5}.Debug|Win32.Build.0 = Debug|Win32
+		{044DF54B-24EE-404C-A8C6-3A2BFE58B9D5}.Release|Win32.ActiveCfg = Release|Win32
+		{044DF54B-24EE-404C-A8C6-3A2BFE58B9D5}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
