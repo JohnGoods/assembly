@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "025_do while循环", "025_d
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "026_浮点指令FLD,FSTP,FADD与FPU寄存器", "026_浮点指令FLD,FSTP,FADD与FPU寄存器\026_浮点指令FLD,FSTP,FADD与FPU寄存器.vcxproj", "{7107758C-4A3A-4D0C-93E8-7F33EBFC6462}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "027_浮点指令fsub", "027_浮点指令fsub\027_浮点指令fsub.vcxproj", "{41DF485E-B890-48BD-A3F7-50C1C2698267}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -165,6 +167,10 @@ Global
 		{7107758C-4A3A-4D0C-93E8-7F33EBFC6462}.Debug|Win32.Build.0 = Debug|Win32
 		{7107758C-4A3A-4D0C-93E8-7F33EBFC6462}.Release|Win32.ActiveCfg = Release|Win32
 		{7107758C-4A3A-4D0C-93E8-7F33EBFC6462}.Release|Win32.Build.0 = Release|Win32
+		{41DF485E-B890-48BD-A3F7-50C1C2698267}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41DF485E-B890-48BD-A3F7-50C1C2698267}.Debug|Win32.Build.0 = Debug|Win32
+		{41DF485E-B890-48BD-A3F7-50C1C2698267}.Release|Win32.ActiveCfg = Release|Win32
+		{41DF485E-B890-48BD-A3F7-50C1C2698267}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
