@@ -59,6 +59,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "027_浮点指令fsub", "027
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "028_浮点指令fmul", "028_浮点指令fmul\028_浮点指令fmul.vcxproj", "{ACB0E361-4668-4085-BE34-862DC0AFB75F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "029_浮点指令FDIV(除)", "029_浮点指令FDIV(除)\029_浮点指令FDIV(除).vcxproj", "{4858298D-1A32-41BF-9C58-A79DDB4F902C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -177,6 +179,10 @@ Global
 		{ACB0E361-4668-4085-BE34-862DC0AFB75F}.Debug|Win32.Build.0 = Debug|Win32
 		{ACB0E361-4668-4085-BE34-862DC0AFB75F}.Release|Win32.ActiveCfg = Release|Win32
 		{ACB0E361-4668-4085-BE34-862DC0AFB75F}.Release|Win32.Build.0 = Release|Win32
+		{4858298D-1A32-41BF-9C58-A79DDB4F902C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4858298D-1A32-41BF-9C58-A79DDB4F902C}.Debug|Win32.Build.0 = Debug|Win32
+		{4858298D-1A32-41BF-9C58-A79DDB4F902C}.Release|Win32.ActiveCfg = Release|Win32
+		{4858298D-1A32-41BF-9C58-A79DDB4F902C}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
