@@ -75,6 +75,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "034_按位取反(NOT)与汇
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "035_按位异或(XOR)", "035_按位异或(XOR)\035_按位异或(XOR).vcxproj", "{54E9FA93-90F7-47DF-A22C-1C3D8BC948CE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "037_字串相关指令SCASW,SCASD与REPNE,REPNZ", "037_字串相关指令SCASW,SCASD与REPNE,REPNZ\037_字串相关指令SCASW,SCASD与REPNE,REPNZ.vcxproj", "{435E9CB9-809E-40E5-BBE7-76A40FD41FC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -225,6 +227,10 @@ Global
 		{54E9FA93-90F7-47DF-A22C-1C3D8BC948CE}.Debug|Win32.Build.0 = Debug|Win32
 		{54E9FA93-90F7-47DF-A22C-1C3D8BC948CE}.Release|Win32.ActiveCfg = Release|Win32
 		{54E9FA93-90F7-47DF-A22C-1C3D8BC948CE}.Release|Win32.Build.0 = Release|Win32
+		{435E9CB9-809E-40E5-BBE7-76A40FD41FC6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{435E9CB9-809E-40E5-BBE7-76A40FD41FC6}.Debug|Win32.Build.0 = Debug|Win32
+		{435E9CB9-809E-40E5-BBE7-76A40FD41FC6}.Release|Win32.ActiveCfg = Release|Win32
+		{435E9CB9-809E-40E5-BBE7-76A40FD41FC6}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
