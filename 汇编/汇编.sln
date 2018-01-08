@@ -79,6 +79,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "037_字串相关指令SCASW
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "038_字串相关指令CMPSB与REPE", "038_字串相关指令CMPSB与REPE\038_字串相关指令CMPSB与REPE.vcxproj", "{48A2FB7D-0DD2-48A3-ADB4-E62A918295ED}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "039_LOOP LOOPD指令", "039_LOOP LOOPD指令\039_LOOP LOOPD指令.vcxproj", "{CB6DBD8B-2DBF-4B95-AD5D-813F4AEC6DB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -237,6 +239,10 @@ Global
 		{48A2FB7D-0DD2-48A3-ADB4-E62A918295ED}.Debug|Win32.Build.0 = Debug|Win32
 		{48A2FB7D-0DD2-48A3-ADB4-E62A918295ED}.Release|Win32.ActiveCfg = Release|Win32
 		{48A2FB7D-0DD2-48A3-ADB4-E62A918295ED}.Release|Win32.Build.0 = Release|Win32
+		{CB6DBD8B-2DBF-4B95-AD5D-813F4AEC6DB8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CB6DBD8B-2DBF-4B95-AD5D-813F4AEC6DB8}.Debug|Win32.Build.0 = Debug|Win32
+		{CB6DBD8B-2DBF-4B95-AD5D-813F4AEC6DB8}.Release|Win32.ActiveCfg = Release|Win32
+		{CB6DBD8B-2DBF-4B95-AD5D-813F4AEC6DB8}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
