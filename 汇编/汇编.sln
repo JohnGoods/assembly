@@ -81,6 +81,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "038_字串相关指令CMPSB
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "039_LOOP LOOPD指令", "039_LOOP LOOPD指令\039_LOOP LOOPD指令.vcxproj", "{CB6DBD8B-2DBF-4B95-AD5D-813F4AEC6DB8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "040_stosb,stosw,stosd,串存储指令", "040_stosb,stosw,stosd,串存储指令\040_stosb,stosw,stosd,串存储指令.vcxproj", "{EEE2E14E-37F3-41D7-8AEB-9E1EDEBC0BD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -243,6 +245,10 @@ Global
 		{CB6DBD8B-2DBF-4B95-AD5D-813F4AEC6DB8}.Debug|Win32.Build.0 = Debug|Win32
 		{CB6DBD8B-2DBF-4B95-AD5D-813F4AEC6DB8}.Release|Win32.ActiveCfg = Release|Win32
 		{CB6DBD8B-2DBF-4B95-AD5D-813F4AEC6DB8}.Release|Win32.Build.0 = Release|Win32
+		{EEE2E14E-37F3-41D7-8AEB-9E1EDEBC0BD4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EEE2E14E-37F3-41D7-8AEB-9E1EDEBC0BD4}.Debug|Win32.Build.0 = Debug|Win32
+		{EEE2E14E-37F3-41D7-8AEB-9E1EDEBC0BD4}.Release|Win32.ActiveCfg = Release|Win32
+		{EEE2E14E-37F3-41D7-8AEB-9E1EDEBC0BD4}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
